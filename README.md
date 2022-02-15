@@ -1,4 +1,2 @@
-# Primeiro-Repostitorio
+# Repositorio Curso Desenvolverdor Full Stack Cubos Academy 
 
-Aula 02 - Setup da Maquina -
-Criação do primeiro repositorio no GitHub 
