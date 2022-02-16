@@ -10,3 +10,4 @@ Git status = Ver o que tem na “Caixa”/Branch aqui conseguimos ver os arquivo
 Git commit = Cria um “marco / checkpoint” no projeto
     (Branch ou ramificações é a duplicação do projeto sob o controle de versão que permite alterar partes do código separadamente)
 git remote add origin = Vincula um repositorio local a um repositorio na nuvem  
+git pull = salva todas as alterações do repositorio remoto para o local
