@@ -9,3 +9,4 @@ Git reset = É o oposto do git add
 Git status = Ver o que tem na “Caixa”/Branch aqui conseguimos ver os arquivos na stage ou not stage
 Git commit = Cria um “marco / checkpoint” no projeto
     (Branch ou ramificações é a duplicação do projeto sob o controle de versão que permite alterar partes do código separadamente)
+git remote add origin = Vincula um repositorio local a um repositorio na nuvem  
