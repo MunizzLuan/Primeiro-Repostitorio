@@ -1,0 +1,23 @@
+Insights Variaveis
+
+Variaveis tipo "const" são variaveis imutaveis.
+
+Variaveis tipo "let" podem ser reatribuidas a outras.
+
+Variaveis tipo string são tipo texto e escrita dentro de aspas ("" ou '').
+
+Começar a variável por letra minúscula.
+
+Padrão mais utilizado é o camelCase (Alternando entre letras minúscula e maiusculas).
+
+String template é utilizado para imprimir um texto usando (Crase " `` ") junto a variável por exemplo:
+console.log (`Minha idade é ${idade} anos. E minha altura é ${alturaEmMetros} metros.`); 
+
+Variável "Var" é parecida com a variável "Let", porém ao executar o codigo independente de qual linha ela esteja ela 
+é puxada pra cima.
+
+Escopo é uma região do codigo onde as variaveis estão, geralmente está entre chaves ( { } ).
+variaveis criadas fora do escopo funcionam em todo o arquivo, variaveis criadas dentro, funcionam até o fim do escopo.
+
+Site com tipos de dados.
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
